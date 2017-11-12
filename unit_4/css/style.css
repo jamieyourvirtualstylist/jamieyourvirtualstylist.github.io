@@ -1,0 +1,36 @@
+/*{body*/
+	/*background: url(images/background_landingpage.jpg);
+	<img src="images/background_landingpage.jpg"> 
+	*/
+	/*}*/
+
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+
+
+h1 {
+	font-family: 'Playfair Display', serif;	
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	font-size: 100px
+	}
+	
+
+body {
+	background: url(src="images/background_landingpage.jpg");
+  	background-size: cover;
+	font-family: 'Playfair Display', serif;
+	}
+	
+
+p
+	{
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	}
+
+#slogan
+	{
+	font-style: italic;
+	text-align: center;
+	}
